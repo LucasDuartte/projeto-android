@@ -2,7 +2,8 @@
 Projeto Android criado no Curso de HTML e CSS
 
 
+ <p> Acesse o site a baixo  </p>
 
-<a href="https://lucasduartte.github.io/projeto-android/index.html" target="_blank" class="externo"> SITE projeto-android</a>
+https://lucasduartte.github.io/projeto-android/index.html
 
 
